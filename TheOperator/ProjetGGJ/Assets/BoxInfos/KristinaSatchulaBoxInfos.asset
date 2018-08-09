@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21f7fec92c249f046a19b8090482aeaa, type: 3}
+  m_Name: KristinaSatchulaBoxInfos
+  m_EditorClassIdentifier: 
+  idName: KristinaSatchula
+  description: 'Kristina Stachula : Kristina leads the team that takes care of all
+    the cleaning of the White House. She has access to all the rooms, the entire team
+    of the President has faith in her'
+  picture: {fileID: 21300000, guid: 27ec28f8c2fc1ae4aaab9129a0aec5ac, type: 3}

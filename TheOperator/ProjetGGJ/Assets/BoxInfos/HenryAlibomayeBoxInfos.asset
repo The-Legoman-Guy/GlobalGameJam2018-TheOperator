@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21f7fec92c249f046a19b8090482aeaa, type: 3}
+  m_Name: HenryAlibomayeBoxInfos
+  m_EditorClassIdentifier: 
+  idName: HenryAlibomaye
+  description: 'Henry ALI BOMAYE : Butler faithful to the white house for over 12
+    years, he welcomes the personality and knows everyone, he plays the role of receptionist
+    and warns when someone has arrived.'
+  picture: {fileID: 21300000, guid: 8a1b7ba68b01fac47bf68e221a9b1864, type: 3}

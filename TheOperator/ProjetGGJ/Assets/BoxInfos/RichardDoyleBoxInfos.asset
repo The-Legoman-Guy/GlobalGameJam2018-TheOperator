@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21f7fec92c249f046a19b8090482aeaa, type: 3}
+  m_Name: RichardDoyleBoxInfos
+  m_EditorClassIdentifier: 
+  idName: RichardDoyle
+  description: 'Richard DOYLE : Richard takes care of security inside the White House.
+    If someone sneaks into the building, Richard and his team will intervene and neutralize
+    the enemy.'
+  picture: {fileID: 21300000, guid: 606bbb0330e9d01488e2025fae387ef2, type: 3}

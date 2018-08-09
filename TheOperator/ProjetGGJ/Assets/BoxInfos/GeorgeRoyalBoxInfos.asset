@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21f7fec92c249f046a19b8090482aeaa, type: 3}
+  m_Name: GeorgeRoyalBoxInfos
+  m_EditorClassIdentifier: 
+  idName: GeorgeRoyal
+  description: 'GEORGE C. ROYAL : Secretary of Economy. Communicates a lot with the
+    banks and the association "Jews of America". Her mistress often calls her to work.
+    Great golf player, he plays with the head of security every Tuesday'
+  picture: {fileID: 21300000, guid: 78eb219720fefd042898e4df465b4ab0, type: 3}

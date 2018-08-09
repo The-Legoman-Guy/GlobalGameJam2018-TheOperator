@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21f7fec92c249f046a19b8090482aeaa, type: 3}
+  m_Name: DavidBishopBoxInfos
+  m_EditorClassIdentifier: 
+  idName: DavidBishop
+  description: 'DAVID BISHOP : Financial Regulatory Law Editor: Business Contact at
+    the White House. Contact the Secratary of Agriculture a lot to talk about the
+    returns...'
+  picture: {fileID: 21300000, guid: 3bd412e30636d6945846f8d0bde49283, type: 3}

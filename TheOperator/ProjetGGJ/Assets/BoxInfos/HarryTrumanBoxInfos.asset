@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21f7fec92c249f046a19b8090482aeaa, type: 3}
+  m_Name: HarryTrumanBoxInfos
+  m_EditorClassIdentifier: 
+  idName: HarryTruman
+  description: 'HARRY S. TRUMAN : Elected for a second mandate in 1948, he approved
+    the use of the Atomic bomb on the Japanese soil. Respected by his peers, he can
+    be impartiate in conflict resolution. Actively follows sport related news'
+  picture: {fileID: 21300000, guid: 4fa83d35487b00f4f935dd290f197d87, type: 3}
